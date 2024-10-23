@@ -1,0 +1,145 @@
+[
+    {
+        "index": 0,
+        "bink": "00000074",
+        "pid_range": [
+            100,
+            101
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 14,
+        "days_evaluation": 365
+    },
+    {
+        "index": 1,
+        "bink": "00000074",
+        "pid_range": [
+            103,
+            103
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 60,
+        "days_evaluation": 365
+    },
+    {
+        "index": 2,
+        "bink": "00000074",
+        "pid_range": [
+            104,
+            104
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 90,
+        "days_evaluation": 60
+    },
+    {
+        "index": 3,
+        "bink": "00000074",
+        "pid_range": [
+            108,
+            110
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 0,
+        "days_evaluation": 365
+    },
+    {
+        "index": 4,
+        "bink": "00000074",
+        "pid_range": [
+            112,
+            114
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 0,
+        "days_evaluation": 365
+    },
+    {
+        "index": 5,
+        "bink": "00000074",
+        "pid_range": [
+            116,
+            116
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 14,
+        "days_evaluation": 365
+    },
+    {
+        "index": 6,
+        "bink": "00000074",
+        "pid_range": [
+            117,
+            122
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 0,
+        "days_evaluation": 365
+    },
+    {
+        "index": 7,
+        "bink": "00000074",
+        "pid_range": [
+            105,
+            105
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 0,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 8,
+        "bink": "00000074",
+        "pid_range": [
+            106,
+            106
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 0,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 9,
+        "bink": "00000074",
+        "pid_range": [
+            107,
+            107
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 0,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 10,
+        "bink": "00000075",
+        "pid_range": [
+            100,
+            100
+        ],
+        "type": "OEM-SLP",
+        "days_to_activate": 0,
+        "days_evaluation": 365
+    },
+    {
+        "index": 11,
+        "bink": "00000075",
+        "pid_range": [
+            101,
+            101
+        ],
+        "type": "OEM-SLP",
+        "days_to_activate": 0,
+        "days_evaluation": 365
+    },
+    {
+        "index": 12,
+        "bink": "00000075",
+        "pid_range": [
+            102,
+            102
+        ],
+        "type": "OEM-SLP",
+        "days_to_activate": 0,
+        "days_evaluation": 2147483647
+    }
+]

@@ -1,0 +1,343 @@
+[
+    {
+        "index": 5,
+        "bink": "0000002D",
+        "pid_range": [
+            119,
+            119
+        ],
+        "type": "OEM-SLP",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 6,
+        "bink": "0000002D",
+        "pid_range": [
+            120,
+            169
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 7,
+        "bink": "0000002D",
+        "pid_range": [
+            400,
+            665
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 8,
+        "bink": "0000002D",
+        "pid_range": [
+            667,
+            699
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 9,
+        "bink": "0000002D",
+        "pid_range": [
+            170,
+            269
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 10,
+        "bink": "0000002D",
+        "pid_range": [
+            700,
+            754
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 11,
+        "bink": "0000002D",
+        "pid_range": [
+            803,
+            899
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 18,
+        "bink": "0000002C",
+        "pid_range": [
+            5,
+            85
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 19,
+        "bink": "0000002C",
+        "pid_range": [
+            337,
+            359
+        ],
+        "type": "Tablet",
+        "days_to_activate": 60,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 20,
+        "bink": "0000002C",
+        "pid_range": [
+            755,
+            779
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 21,
+        "bink": "0000002C",
+        "pid_range": [
+            785,
+            789
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 23,
+        "bink": "0000002C",
+        "pid_range": [
+            360,
+            369
+        ],
+        "type": "Tablet",
+        "days_to_activate": 60,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 25,
+        "bink": "0000002C",
+        "pid_range": [
+            85,
+            89
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 26,
+        "bink": "0000002C",
+        "pid_range": [
+            95,
+            99
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 53,
+        "bink": "0000002C",
+        "pid_range": [
+            90,
+            90
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 54,
+        "bink": "0000002C",
+        "pid_range": [
+            111,
+            111
+        ],
+        "type": "Tablet",
+        "days_to_activate": 60,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 55,
+        "bink": "0000002C",
+        "pid_range": [
+            112,
+            112
+        ],
+        "type": "Tablet",
+        "days_to_activate": 60,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 56,
+        "bink": "0000002D",
+        "pid_range": [
+            90,
+            90
+        ],
+        "type": "OEM-SLP",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 57,
+        "bink": "0000002D",
+        "pid_range": [
+            100,
+            110
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 58,
+        "bink": "0000002D",
+        "pid_range": [
+            113,
+            113
+        ],
+        "type": "OEM-SLP",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 59,
+        "bink": "0000002D",
+        "pid_range": [
+            114,
+            114
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 66,
+        "bink": "0000002D",
+        "pid_range": [
+            271,
+            336
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 67,
+        "bink": "0000002D",
+        "pid_range": [
+            370,
+            399
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 68,
+        "bink": "0000002D",
+        "pid_range": [
+            780,
+            784
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 69,
+        "bink": "0000002D",
+        "pid_range": [
+            790,
+            799
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 70,
+        "bink": "0000002D",
+        "pid_range": [
+            900,
+            979
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 71,
+        "bink": "0000002C",
+        "pid_range": [
+            114,
+            116
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 75,
+        "bink": "0000002C",
+        "pid_range": [
+            311,
+            334
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 76,
+        "bink": "0000002C",
+        "pid_range": [
+            336,
+            336
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 77,
+        "bink": "0000002C",
+        "pid_range": [
+            370,
+            384
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 78,
+        "bink": "0000002C",
+        "pid_range": [
+            385,
+            385
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "index": 34,
+        "bink": "00000033",
+        "pid_range": [
+            119,
+            119
+        ],
+        "type": "OEM-SLP",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 35,
+        "bink": "00000033",
+        "pid_range": [
+            120,
+            169
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 36,
+        "bink": "00000033",
+        "pid_range": [
+            400,
+            665
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 37,
+        "bink": "00000033",
+        "pid_range": [
+            667,
+            699
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 38,
+        "bink": "00000033",
+        "pid_range": [
+            170,
+            269
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 39,
+        "bink": "00000033",
+        "pid_range": [
+            700,
+            754
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 40,
+        "bink": "00000033",
+        "pid_range": [
+            803,
+            899
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 41,
+        "bink": "00000032",
+        "pid_range": [
+            291,
+            300
+        ],
+        "type": "Tablet",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 185
+    },
+    {
+        "index": 42,
+        "bink": "00000033",
+        "pid_range": [
+            301,
+            320
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    }
+]

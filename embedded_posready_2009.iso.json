@@ -1,0 +1,134 @@
+[
+    {
+        "index": 12,
+        "bink": "0000000D",
+        "pid_range": [
+            100,
+            199
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 125
+    },
+    {
+        "index": 13,
+        "bink": "0000000D",
+        "pid_range": [
+            200,
+            619
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 79,
+        "bink": "0000000D",
+        "pid_range": [
+            940,
+            960
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 80,
+        "bink": "0000000D",
+        "pid_range": [
+            963,
+            979
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 81,
+        "bink": "0000000D",
+        "pid_range": [
+            985,
+            986
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 82,
+        "bink": "0000000D",
+        "pid_range": [
+            996,
+            996
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 125
+    },
+    {
+        "index": 83,
+        "bink": "0000000D",
+        "pid_range": [
+            997,
+            997
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 370
+    },
+    {
+        "index": 84,
+        "bink": "0000000D",
+        "pid_range": [
+            998,
+            998
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 85,
+        "bink": "0000000D",
+        "pid_range": [
+            620,
+            620
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 86,
+        "bink": "0000000D",
+        "pid_range": [
+            621,
+            621
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 87,
+        "bink": "0000000D",
+        "pid_range": [
+            622,
+            622
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 125
+    },
+    {
+        "index": 88,
+        "bink": "0000000D",
+        "pid_range": [
+            623,
+            623
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 370
+    }
+]

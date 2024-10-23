@@ -1,0 +1,90 @@
+[
+    {
+        "index": 3,
+        "bink": "0000002D",
+        "pid_range": [
+            119,
+            119
+        ],
+        "type": "OEM-SLP",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 4,
+        "bink": "0000002D",
+        "pid_range": [
+            120,
+            169
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 5,
+        "bink": "0000002D",
+        "pid_range": [
+            400,
+            699
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 6,
+        "bink": "0000002D",
+        "pid_range": [
+            170,
+            269
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 13,
+        "bink": "0000002C",
+        "pid_range": [
+            5,
+            85
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 14,
+        "bink": "0000002C",
+        "pid_range": [
+            337,
+            359
+        ],
+        "type": "Tablet",
+        "days_to_activate": 60,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 15,
+        "bink": "0000002C",
+        "pid_range": [
+            755,
+            779
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 16,
+        "bink": "0000002C",
+        "pid_range": [
+            785,
+            789
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    }
+]

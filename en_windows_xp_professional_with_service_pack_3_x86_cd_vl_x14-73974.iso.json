@@ -1,0 +1,35 @@
+[
+    {
+        "index": 22,
+        "bink": "0000002E",
+        "pid_range": [
+            640,
+            699
+        ],
+        "type": "Volume",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 60,
+        "bink": "0000002E",
+        "pid_range": [
+            700,
+            701
+        ],
+        "type": "Volume",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 61,
+        "bink": "0000002E",
+        "pid_range": [
+            704,
+            705
+        ],
+        "type": "Volume",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    }
+]

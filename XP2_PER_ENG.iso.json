@@ -1,0 +1,57 @@
+[
+    {
+        "index": 0,
+        "bink": "0000002B",
+        "pid_range": [
+            119,
+            119
+        ],
+        "type": "OEM-SLP",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 1,
+        "bink": "0000002B",
+        "pid_range": [
+            120,
+            169
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 2,
+        "bink": "0000002B",
+        "pid_range": [
+            400,
+            699
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 11,
+        "bink": "0000002A",
+        "pid_range": [
+            5,
+            85
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 12,
+        "bink": "0000002A",
+        "pid_range": [
+            337,
+            359
+        ],
+        "type": "Tablet",
+        "days_to_activate": 60,
+        "days_evaluation": 2147483647
+    }
+]
